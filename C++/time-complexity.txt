@@ -1,0 +1,11 @@
+what is time complexity?
+rate at which the time taken increse with request to the input size
+tc--> big oh notation  ..>o()---->worst case
+tc,worst case scenerio----> best case ,worst case and average case
+avoid constant
+avoid lower value
+theta ---->average
+omega ----->best
+space complexity----> memory space
+----> auxilisry space + input space
+bigoh
